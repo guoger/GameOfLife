@@ -1,0 +1,4 @@
+GameOfLife
+==========
+
+Parallel Programming - GameOfLife
